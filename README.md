@@ -7,4 +7,5 @@ The rules applied for the simplest motion in a Boids system are:
 3.Separation: steer to avoid crowding local flockmates.
 
 Playing with these values and adding constraints also give amazing visualization.
-[![Watch the video](https://www.youtube.com/watch?v=tuXBikW3GyE&t=13s&ab_channel=ShashwatVyas)
+
+[![Watch the video](https://img.youtube.com/vi/tuXBikW3GyE/maxresdefault.jpg)](https://www.youtube.com/watch?v=tuXBikW3GyE&t=13s&ab_channel=ShashwatVyas)
