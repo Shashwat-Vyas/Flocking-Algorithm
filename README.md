@@ -8,4 +8,4 @@ The rules applied for the simplest motion in a Boids system are:
 
 Playing with these values and adding constraints also give amazing visualization.
 
-[![Watch the video](https://img.youtube.com/vi/tuXBikW3GyE/maxresdefault.jpg)](https://www.youtube.com/watch?v=tuXBikW3GyE&t=13s&ab_channel=ShashwatVyas)
+https://www.youtube.com/watch?v=tuXBikW3GyE&t=13s&ab_channel=ShashwatVyas
